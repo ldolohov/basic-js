@@ -22,7 +22,7 @@ const { NotImplementedError } = require('../extensions/index.js');
       result = +sum;
     }
   }
-  return result;;
+  return result;
 }
 
 module.exports = {
